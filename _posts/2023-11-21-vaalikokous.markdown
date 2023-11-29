@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vaalikokous 7.11 // Bikepoli elections 7.11"
+title: "Vaalikokous 7.11. // Bikepoli elections 7.11."
 date: 2023-10-21 20:19:13 +0200
 categories: kokous
 ---
