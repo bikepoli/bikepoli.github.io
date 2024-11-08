@@ -16,10 +16,10 @@ Kokouksen esityslista:
     Kokouksen llaillisuus ja päätösvaltaisuus
     Esityslistan hyväksyminen työjärjestykseksi
     Ilmoitusasiat
-    Jäsenmaksujen suuruus kaudelle 2024
-    Pajankäyttömaksujen suuruus kaudelle 2024
-    Hallituksen ja toimihenkilöiden valinnat kaudelle 2024
-    Toiminnantarkastajien ja heidän varahenkilön valinta kaudelle 2024
+    Jäsenmaksujen suuruus kaudelle 2025
+    Pajankäyttömaksujen suuruus kaudelle 2025
+    Hallituksen ja toimihenkilöiden valinnat kaudelle 2025
+    Toiminnantarkastajien ja heidän varahenkilön valinta kaudelle 2025
     Muut esille tulevat asiat
     Kokouksen päättäminen
 
@@ -38,10 +38,10 @@ Meeting agenda:
     Legitimacy and validity of the meeting
     Approving the agenda
     Announcements
-    Membership fees for year 2024
-    Workshop fees for year 2024
-    Selecting board and the officials for year 2024
-    Selecting auditors and and substitutes for year 2024
+    Membership fees for year 2025
+    Workshop fees for year 2025
+    Selecting board and the officials for year 2025
+    Selecting auditors and and substitutes for year 2025
     Any other business
     Ending the meeting
 
