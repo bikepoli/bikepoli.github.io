@@ -13,15 +13,17 @@ Kokouksen esityslista:
 
     Kokouksen avaus
     Kokouksen järjestäytyminen
-    Kokouksen llaillisuus ja päätösvaltaisuus
+    Kokouksen laillisuus ja päätösvaltaisuus
     Esityslistan hyväksyminen työjärjestykseksi
     Ilmoitusasiat
-    Jäsenmaksujen suuruus kaudelle 2025
-    Pajankäyttömaksujen suuruus kaudelle 2025
+    Esitys jäsenmaksujen suuruudesta kaudelle 2025
+    Esitys pajankäyttömaksujen suuruudesta kaudelle 2025
+    Esitys toimintasuunnitelmasta kaudelle 2025
     Hallituksen ja toimihenkilöiden valinnat kaudelle 2025
-    Toiminnantarkastajien ja heidän varahenkilön valinta kaudelle 2025
+    Toiminnantarkastajien ja heidän varahenkilöidensä valinta kaudelle 2025
     Muut esille tulevat asiat
     Kokouksen päättäminen
+
 
 https://meet.google.com/bsq-xybe-oui?hs=224
 
@@ -33,17 +35,19 @@ Welcome to the election meeting at the club's bike workshop (Otakaari 20, inner 
 
 Meeting agenda:
 
-    Opening the meeting
-    Practicalities
-    Legitimacy and validity of the meeting
-    Approving the agenda
-    Announcements
-    Membership fees for year 2025
-    Workshop fees for year 2025
-    Selecting board and the officials for year 2025
-    Selecting auditors and and substitutes for year 2025
-    Any other business
-    Ending the meeting
+    Opening of the meeting
+    Organization of the meeting
+    Legality of the meeting
+    Approval of the agenda
+    Notification matters
+    Proposal for the membership fees for the 2025 season
+    Proposal for the workshop key fees for the season 2025
+    Proposal for the action plan for the 2025 season
+    Elections of the board and officials for the 2025 season
+    Elections of the operational inspectors and their deputies for the 2025 season
+    Other things that come up
+    Closing the meeting
+
 
 
 https://meet.google.com/bsq-xybe-oui?hs=224
