@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kevätkokous 21.3. // Bikepoli Spring General Meeting 21.3."
-date: 2024-03-13 18:55:13 +0200
+date: 2025-03-13 18:55:13 +0200
 categories: kokous
 ---
 
