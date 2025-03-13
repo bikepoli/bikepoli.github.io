@@ -16,7 +16,7 @@ Google meet-linkki: meet.google.com/gqs-uvgr-fob
  
 KOKOUSKUTSU 
 Bikepolin kevätkokous 
-Tiistai 21.03.2025 klo 18:00 
+Perjantai 21.03.2025 klo 18:00 
 Huoltopaja Otakaari 20 
 
 //
@@ -31,5 +31,5 @@ Google meet link: meet.google.com/gqs-uvgr-fob
  
 INVITATION TO THE MEETING 
 Bikepoli’s spring general meeting 
-Tuesday 21.03.2025 at 18:00 
+Friday 21.03.2025 at 18:00 
 Huoltopaja Otakaari 20
